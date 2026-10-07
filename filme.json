@@ -1,0 +1,11 @@
+{
+    "filme":{
+        "titulo": "as apimentadas tudo ou nada",
+        "ano": 2006,
+        "diretor": "Steve Rash",
+        "genero": ["comédia" , "esporte" , "romance teen"]
+
+    }
+
+
+}
