@@ -3,8 +3,11 @@
         "titulo": "as apimentadas tudo ou nada",
         "ano": null,
         "diretor": "Steve Rash",
-        "genero": ["comédia" , "esporte" , "romance teen"]
-
+        "genero": ["comédia" , "esporte" , "romance teen"],
+        "personagens_principais":{
+            "personagem1": "Britney",
+            "personagem2": "jass"
+        }
     }
 
 

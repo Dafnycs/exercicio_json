@@ -3,7 +3,10 @@
         "nome": "Dafny",
         "idade": null,
         "notas": [10 , 9 , 10],
-        "aprovado": true
+        "aprovado": true,
+        "info"{
+            "escola": "Sesi",
+            "lugar": "São Paulo"
     }
 
 

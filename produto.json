@@ -3,7 +3,11 @@
         "kitKerastase": "Kit de shampoo e condionador Kérastase",
         "preco": 826.20,
         "Quantidade": "null",
-        "Disponivel": true
+        "Disponivel": true,
+        "informações":{
+            "fonercedor": "Grupo L'Oréal",
+            "origem": "francesa"
+        }
     }
 
 }
